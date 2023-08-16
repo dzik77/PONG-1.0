@@ -1,0 +1,40 @@
+﻿  Ball.cpp
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(31,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(33,13): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(40,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(42,13): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(72,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(74,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(75,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(76,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(113,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(115,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(116,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(117,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(146,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(148,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(149,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(150,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(177,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(179,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(180,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(181,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Ball.cpp(257,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MessageManager.cpp
+  Object.cpp
+C:\Users\dzik77\Dev\Pong\Pong\Object.cpp(21,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Object.cpp(21,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Object.cpp(22,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Object.cpp(22,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+C:\Users\dzik77\Dev\Pong\Pong\Player.cpp(20,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Player.cpp(22,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Player.cpp(32,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\Player.cpp(34,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PongMain.cpp
+C:\Users\dzik77\Dev\Pong\Pong\PongMain.cpp(186,20): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+C:\Users\dzik77\Dev\Pong\Pong\PongMain.cpp(190,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  WindowManager.cpp
+  Generating Code...
+  Pong.vcxproj -> C:\Users\dzik77\Dev\Pong\x64\Debug\Pong.exe
